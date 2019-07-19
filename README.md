@@ -5,7 +5,7 @@ This repository is about "Ushant AIS", a dataset of vessel trajectories recorded
 SOME_DETAILS_HERE
 
 The dataset is available on figshare there:
-<TODO_LINK>
+<https://figshare.com/articles/Ushant_AIS_dataset/8966273>
 
 Also, if you use this dataset for research, please cite:
 
