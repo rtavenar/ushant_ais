@@ -30,5 +30,5 @@ Also, if you use this dataset for research, please cite:
 
 ## Acknowledgements
 
-Authors would like to thank CLS and Erwan Guegueniat for providing the raw data that allowed building this dataset.
+Authors would like to thank CLS (Collecte Localisation Satellites) and Erwan Guegueniat for providing the raw data that allowed building this dataset.
 This work has been supported by DGA through the ANR/Astrid SESAME project (ref: ANR-16-ASTR-0026).
