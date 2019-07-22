@@ -26,3 +26,9 @@ Also, if you use this dataset for research, please cite:
   title = "Scalable clustering of segmented trajectories within a continuous time framework: application to maritime traffic data",
   author = "Pierre Gloaguen and Laetitia Chapel and Chlo{'e} Friguet and Romain Tavenard"
 }
+```
+
+## Acknowledgements
+
+Authors would like to thank CLS and Erwan Guegueniat for providing the raw data that allowed building this dataset.
+This work has been supported by DGA through the ANR/Astrid SESAME project (ref: ANR-16-ASTR-0026).
