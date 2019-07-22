@@ -12,8 +12,12 @@ As such, the area is highly monitored to avoid collision or grounding, and a bet
 The whole trajectory data set consists in 18,603 trajectories, gathering overall more than 7 millions GPS observations.
 Only trajectories having more than 30 points were kept, time lag between two consecutive observations ranges between 5 seconds and 15 hours, with 95% of time lags below 3 minutes.
 
+## Link
+
 The dataset is available on figshare there:
 <https://figshare.com/articles/Ushant_AIS_dataset/8966273>
+
+## Reference
 
 Also, if you use this dataset for research, please cite:
 
